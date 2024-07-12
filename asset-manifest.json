@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/Mazuri-Car-Dealers/static/css/main.9d31a05d.css",
+    "main.js": "/Mazuri-Car-Dealers/static/js/main.2708949e.js",
+    "static/media/CarServices.jpg": "/Mazuri-Car-Dealers/static/media/CarServices.3c0c7d480f14a0724079.jpg",
+    "static/media/Garage.jpg": "/Mazuri-Car-Dealers/static/media/Garage.b60679d353dd4333c5b1.jpg",
+    "static/media/Carbodybuiding.jpg": "/Mazuri-Car-Dealers/static/media/Carbodybuiding.63b5668010cc0f02465e.jpg",
+    "static/media/showroom.jpg": "/Mazuri-Car-Dealers/static/media/showroom.e5cb71275e835e33e16e.jpg",
+    "static/media/Carwash (1).jpg": "/Mazuri-Car-Dealers/static/media/Carwash (1).795d6b1ad397dce1c002.jpg",
+    "static/media/Ford-ranger.PNG": "/Mazuri-Car-Dealers/static/media/Ford-ranger.66a986376916058acf3c.PNG",
+    "static/media/Mercedes-Benz.PNG": "/Mazuri-Car-Dealers/static/media/Mercedes-Benz.252c11841033a4e5d12c.PNG",
+    "static/media/Mercedfs-Benz.PNG": "/Mazuri-Car-Dealers/static/media/Mercedfs-Benz.252c11841033a4e5d12c.PNG",
+    "static/media/Mazda Axela.PNG": "/Mazuri-Car-Dealers/static/media/Mazda Axela.523380febe99254bcb49.PNG",
+    "static/media/nissan.PNG": "/Mazuri-Car-Dealers/static/media/nissan.e1f0aaa9634148fe8685.PNG",
+    "static/media/range rover.PNG": "/Mazuri-Car-Dealers/static/media/range rover.05f258767b6059a20491.PNG",
+    "static/media/subaru forester.PNG": "/Mazuri-Car-Dealers/static/media/subaru forester.92e9bdea85c0e44f1054.PNG",
+    "static/media/Mark-X.PNG": "/Mazuri-Car-Dealers/static/media/Mark-X.5699f1b9687414bdf423.PNG",
+    "static/media/lexus-big.PNG": "/Mazuri-Car-Dealers/static/media/lexus-big.bca7d0fc62b0c85b8289.PNG",
+    "static/media/x-trail.PNG": "/Mazuri-Car-Dealers/static/media/x-trail.d45cf6c956429b8a9f65.PNG",
+    "static/media/Fortuner.PNG": "/Mazuri-Car-Dealers/static/media/Fortuner.d70eb27009af00dfcfe3.PNG",
+    "static/media/Ford Escape.PNG": "/Mazuri-Car-Dealers/static/media/Ford Escape.352e52992a2eb612141f.PNG",
+    "static/media/Mazda Atenza.PNG": "/Mazuri-Car-Dealers/static/media/Mazda Atenza.87301dbbe98604d811b9.PNG",
+    "static/media/probox.PNG": "/Mazuri-Car-Dealers/static/media/probox.a7960f5cd06658279830.PNG",
+    "static/media/lexus -mini.PNG": "/Mazuri-Car-Dealers/static/media/lexus -mini.13e831fc352e39fa06fe.PNG",
+    "static/media/Honda Fit Hybrid.PNG": "/Mazuri-Car-Dealers/static/media/Honda Fit Hybrid.6ce085f09ee3ba10ada5.PNG",
+    "static/media/slick.svg": "/Mazuri-Car-Dealers/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/Mazuri-Car-Dealers/static/media/slick.a4e97f5a2a64f0ab1323.eot",
+    "static/media/slick.ttf": "/Mazuri-Car-Dealers/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/Mazuri-Car-Dealers/static/media/slick.295183786cd8a1389865.woff",
+    "index.html": "/Mazuri-Car-Dealers/index.html",
+    "main.9d31a05d.css.map": "/Mazuri-Car-Dealers/static/css/main.9d31a05d.css.map",
+    "main.2708949e.js.map": "/Mazuri-Car-Dealers/static/js/main.2708949e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9d31a05d.css",
+    "static/js/main.2708949e.js"
+  ]
+}

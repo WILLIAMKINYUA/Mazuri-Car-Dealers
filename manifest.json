@@ -1,0 +1,55 @@
+{
+  "short_name": "React App",
+  "name": "Create React App Sample",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "Carbodybuiding.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "CarServices.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "Carwash (1).jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "Garage.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "showroom.jpg",
+      "type": "image/png",
+      "sizes": "512x512"
+    },
+    {
+      "src": "pexels-tima-miroshnichenko-6873168 (2160p).mp4",
+      "type": "video/mp4",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
